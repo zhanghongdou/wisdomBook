@@ -1,11 +1,11 @@
-> # 注册接口
+> # 注册接口 {#register}
 >
 > 测试：[ comfire.cn](http://www.comfire.cn)  
 > 正式： [comfire.cn](http://www.comfire.cn)
 
-## 前言
+## 前言 {#前言}
 
-所有接口均有加密
+所有接口均有加密（使用AES加密，然后md5二次加密）
 
 ## 请求方式 {#请求}
 
