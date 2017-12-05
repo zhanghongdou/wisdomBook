@@ -19,7 +19,7 @@
 > | client | Int | 客户端类型:1.web  2.android  3.ios  4.wap |
 > | devVer | String | 设备型号 |
 > | sysVer | String | 手机系统版本型号 |
-> | appVer | String |  app版本号 |
+> | appVer | String | app版本号 |
 > | loginCity | String | 注册城市 |
 > | sign | String | 加密之后的参数 |
 > | idfv\_mark | String | iOS端传的idfv |
