@@ -1,3 +1,5 @@
+> ## 注册接口 {#请求}
+>
 > 测试：[ comfire.cn](http://www.comfire.cn)  
 > 正式： [comfire.cn](http://www.comfire.cn)
 
