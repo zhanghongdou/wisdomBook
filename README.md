@@ -1,7 +1,6 @@
 > # 注册接口 {#register}
 >
-> 测试：[ comfire.cn](http://www.comfire.cn)  
-> 正式： [comfire.cn](http://www.comfire.cn)
+> 测试：[ ](http://www.comfire.cn)/Home/user/register
 
 ## 前言 {#前言}
 
