@@ -1,8 +1,8 @@
-> ## 更换头像 {#前言}
+## 更换头像 {#前言}
 
 ## **请求路径**
 
-/Home/user/changeHeadPortrait
+/Home/user/register
 
 ## 请求方式 {#请求}
 
